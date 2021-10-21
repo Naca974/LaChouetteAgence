@@ -673,7 +673,7 @@ a {
 }
 
 p {
-    font-size: 14px;
+    font-size: 20px;
 }
 
 #quote-text{
@@ -688,7 +688,7 @@ p {
 }
 
 #projects{
-    font-size: 1.6em;
+    font-size: 1.9em;
     color: #575757!important;
 }
 
@@ -722,7 +722,7 @@ h2 {
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 25px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
