@@ -299,6 +299,7 @@ a:hover {
 
 .navbar-brand img {
     max-height: 200px;
+    height: 85px;
     margin: 0 5px 0 0;
     display: inline;
 }
@@ -652,6 +653,7 @@ a {
 
 .container {
     max-width: 1440px;
+    width: auto;
 }
 
 .hero-bloc-text {
